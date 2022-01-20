@@ -6,7 +6,7 @@
 The goal of this project is to assess the feasibility of using Crunchbase and Google Finance data to make an accurate prediction about company profitability using simple linear regression.
 <br></br>
 ## Question/Need:
-Venture Capitalists and market speculators are always looking for ways to assess an organization's potential profitability. If we can use historical data taken from Crunchbase to reliably predict an organization's profits post-IPO, venture capitalists could more readily identify long-term profitable organizations to invest in, and speculators could more confidently invest in these organizations post-IPO.
+Venture Capitalists and market speculators are always looking for ways to assess an organization's potential profitability. If we can use historical data taken from Crunchbase to reliably predict an organization's profits post-IPO, venture capitalists could more readily identify long-term profitable organizations to invest in, and speculators could more confidently invest in these organizations once they are publicly traded.
 <br></br>
 ## Data Description:
 We will use two datasets to gather our features and target variables:
