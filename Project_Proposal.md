@@ -1,4 +1,4 @@
-# Informing NBA Betting Strategy Using Linear Regression#
+# Informing NBA Betting Strategy Using Linear Regression #
 ### By: Nate DiRenzo
 
 <br></br>
