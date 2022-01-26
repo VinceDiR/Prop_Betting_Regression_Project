@@ -16,4 +16,7 @@ And looked for any standout correlations in the subsequent heatmap
 
 ![](ohe_corr.svg)
 
-Next steps will be to deepen the scrape function for a more complete dataset, join the team and player data, engineer a number of rolling average and trend-style features on that dataset, merge it with the betting data, clean the dataset, fit a LassoCV model, pick the top feautres, and re-run with OLS Regression model.
+Next steps will be the followig:
+1. Deepen the scrape function for a more complete dataset 
+2. Join the team and player data, engineer a number of rolling average and trend-style features on that dataset. 
+3. Merge engineered dataset with the betting data, clean final data, fit a LassoCV model, pick the top feautres, and re-run with OLS Regression model.
