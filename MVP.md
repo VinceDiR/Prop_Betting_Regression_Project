@@ -4,11 +4,11 @@ The goal of this project is to produce a model that can predict NBA scoring perf
 
 ![](basecorr.svg)
 
-To start exploring this goal, I used looked at the correlation between our target variable (result), and the features present in the baseline data.
+To start exploring this goal, I looked at the correlation between our target variable (result), and the features present in the baseline data.
 
 The results have some promising features, such as Projection and Line.
 
-Next, I one hot encoded all of the features in our betting dataset (except name), and fit a basic regression model (R2 = .45 -- not bad for baseline!)
+Next, I one hot encoded all of the categorical features in our betting dataset (except name), and fit a basic regression model (R2 = .45 -- not bad for baseline!)
 
 ![](lrplot.svg)
 
