@@ -1,5 +1,6 @@
 # Informing NBA Betting Strategy Using Linear Regression #
 ### By: Nate DiRenzo
+*Disclaimer: This project is not an endorsement of gambling, and the insights provided are not meant to be taken as betting advice.*
 <br></br>
 ## Statement of Need:
 In recent years, sports betting has exploded in popularity. However, rarely are the odds offered on a particular wager a true reflection of the probability of that event happening, but rather they are an attempt by bookkeepers to 'balance the action' on both sides of a wager such that a profit is made regardless of outcome. Bettors therefore need alternative means of predicting a given proposition's outcome beyond the consensus odds being offered. In this project, we will explore the viability of predicting the results of points-based proposition wagers in the NBA. A proposition wager is a wager on an event that is independent of the game's result (e.g. Player X will score above or below 30 points). Using a combination of player and opposing team statistics, as well as Vegas betting metrics for a given proposition, we will attempt predict player performance, use those predictions to inform a betting strategy, and evaluate both the accuracy of the model, and whether it would have won or lost money.
