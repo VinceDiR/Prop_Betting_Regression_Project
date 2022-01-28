@@ -2,7 +2,7 @@
 Nate DiRenzo
 
 ## Abstract
-The goal of this project was to assess the viability of using linear regression models to accurately predict NBA scoring performances, and by extension inform a long-term, profitable betting strategy.
+The goal of this project was to assess the viability of using linear regression models to accurately predict NBA scoring performances, and by extension inform a long-term, profitable betting strategy. To do this, I looked at contemporary betting lines for individual players' alongside recent game data to predict scoring in an upcoming game. I engineered a number of large number of interaction features, and used LassoCV to identify the most predictive. I then evaluated models created with that feature subset to determine which would perform best, and assessed the practical performance of the optimal model against the most recent betting projections and scoring performances.
 
 ## Design
 This project came about for a few reasons:
